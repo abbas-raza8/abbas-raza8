@@ -3,8 +3,7 @@
 ### I'm a Student Developer!
 
 - I'm studying Computer Science at the University of Virginia.
-- I'm working on some projects in my free time and hope to join more team-based projects soon.
-- I am currently looking for full-time software engineer opportunities.
+- I'm currently looking for full-time software engineer opportunities.
 
 #### 💻 Work Experience
 - Software Engineer Intern @ Bank of America (June 2022 - August 2022)
